@@ -8,8 +8,6 @@
 
 ## Steps to configure the project
 
-Then run this command: npm run dev
-Next type this command: php artisan serve. It will start the server at this URL: 
 - Clone the repo.
 - Run this command: **composer update**
 - Now, run this command to install npm dependencies: **npm install**
